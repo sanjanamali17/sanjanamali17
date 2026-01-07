@@ -21,6 +21,7 @@ I enjoy building real projects, learning new skills, and helping others understa
 ## Currently Learning
 - Data Structures & Algorithms (DSA) with c++ 
 - Working on**EDIS** – Earth’s Digital Immune System - AI-powered system predicting environmental collapses before they occur.
+  
 -**KIET Student Portal** (College Project) -Building a student portal with PHP backend, and MySQL database for managing student information efficiently.
 
 ##  Fun Fact
