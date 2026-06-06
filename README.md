@@ -238,8 +238,7 @@ Build AI systems that move beyond experimentation and deliver measurable real-wo
 # 🌐 Connect
 
 💼 LinkedIn
-
-www.linkedin.com/in/sanjana-mali-89aa87292
+https://www.linkedin.com/in/sanjana-mali-310ss/
 
 📧 Email
 
