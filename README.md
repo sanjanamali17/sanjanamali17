@@ -1,11 +1,11 @@
-<h1 align="center">🚀 Sanjana Mali</h1>
+<h1 align="center"> Sanjana Mali</h1>
 
 <h3 align="center">
 AI Engineer • Machine Learning • Deep Learning • Generative AI
 </h3>
 
 <p align="center">
-Building intelligent systems for Healthcare, Environmental Intelligence, and Human Productivity.
+Building intelligent systems for Environmental Intelligence, and Human Productivity.
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@ Building intelligent systems for Healthcare, Environmental Intelligence, and Hum
 </p>
 
 <p align="center">
-🧠 Machine Learning • 🤖 Generative AI • ⚡ FastAPI • 🏥 Healthcare AI • 🌍 Environmental AI
+🧠 Machine Learning • 🤖 Generative AI • ⚡ FastAPI  • 🌍 Environmental AI
 </p>
 
 ---
@@ -29,7 +29,6 @@ My interests include:
 - Deep Learning
 - LLM Applications
 - FastAPI Backend Development
-- Healthcare AI
 - Environmental Intelligence
 - Decision Support Systems
 
