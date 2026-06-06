@@ -133,62 +133,61 @@ https://insurancepredictions-sanjana.streamlit.app/
 - AI & Data Science Advocate
 
 ---
+# 🛠️ Technical Expertise
 
-# 🛠 Technical Expertise
+## 🤖 AI & Machine Learning
 
-### AI & Machine Learning
-
-```text
-Machine Learning
-Deep Learning
-TensorFlow
-Scikit-Learn
-Neural Networks
-Feature Engineering
-Model Evaluation
-```
-
-### Generative AI
-
-```text
-LLMs
-Prompt Engineering
-RAG
-AI Agents
-Groq API
-LangGraph (Learning)
-```
-
-### Backend Engineering
-
-```text
-FastAPI
-REST APIs
-Postman
-Python Backend Development
-```
-
-### Data Science
-
-```text
-Pandas
-NumPy
-Matplotlib
-EDA
-Data Cleaning
-```
-
-### Deployment & Cloud
-
-```text
-Streamlit
-Azure
-Render
-Vercel
-Netlify
-```
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-E91E63?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-673AB7?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-009688?style=for-the-badge)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-3F51B5?style=for-the-badge)
 
 ---
+
+## 🧠 Generative AI
+
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8E24AA?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0288D1?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-7B1FA2?style=for-the-badge)
+![Groq API](https://img.shields.io/badge/Groq%20API-000000?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-2E7D32?style=for-the-badge)
+
+---
+
+## ⚡ Backend Engineering
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-1976D2?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Python Backend](https://img.shields.io/badge/Python%20Backend-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 📊 Data Science
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-FF9800?style=for-the-badge)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge)
+
+---
+
+## ☁️ Deployment & Cloud
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+
+
+
 
 # 📊 GitHub Analytics
 
