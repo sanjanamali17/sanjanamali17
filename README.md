@@ -25,105 +25,160 @@ Final-year Artificial Intelligence & Data Science student passionate about build
 
 ---
 
-# 🏆 Featured Projects
+<h1 align="center">Hi 👋, I'm Sanjana Mali</h1>
 
-## 🩺 Breast Cancer Prediction Using ANN
+<h3 align="center">
+AI & ML Engineer • Building Intelligent Systems with Machine Learning, Deep Learning, LLMs & FastAPI
+</h3>
 
-Deep Learning-based breast cancer diagnosis system using TensorFlow and Artificial Neural Networks.
+<p align="center">
+Final-Year Artificial Intelligence & Data Science Student passionate about building AI products that solve real-world problems across Healthcare, Environmental Intelligence, Automation, and Generative AI.
+</p>
+
+<p align="center">
+🚀 AI Builder | 🧠 ML Engineer | ⚡ FastAPI Developer | 🤖 Generative AI Enthusiast
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+## 🌍 Earth Digital Immune System (EDIS)
+
+### AI-Powered Environmental Intelligence Platform
+
+An intelligent environmental monitoring system that analyzes ecosystem health, detects environmental stress indicators, and provides AI-driven recommendations for proactive decision-making.
 
 ### Highlights
 
-* ~97% Prediction Accuracy
-* TensorFlow/Keras Implementation
-* Streamlit Deployment
-* Automated PDF Report Generation
-* Real-Time Prediction Interface
+* AI-powered ecosystem risk assessment
+* FastAPI backend architecture
+* Intelligent recommendation engine
+* Environmental stress monitoring
+* Decision support system
 
-🔗 Live Demo:
+**Tech Stack:** FastAPI • Python • AI Analytics • LLM Integration
+
+---
+
+## 🎙️ AI Interview Copilot
+
+### Personal AI Interview Coach
+
+A Generative AI platform that simulates technical interviews, generates interview questions, evaluates responses, and provides personalized feedback.
+
+### Highlights
+
+* LLM-powered interview simulation
+* Automated feedback generation
+* Technical question generation
+* Performance evaluation system
+* FastAPI backend integration
+
+**Tech Stack:** Python • FastAPI • Groq API • LLMs
+
+---
+
+## 🩺 Breast Cancer Prediction Using ANN
+
+### Deep Learning for Early Cancer Detection
+
+A healthcare AI application that predicts whether a tumor is benign or malignant using Artificial Neural Networks.
+
+### Highlights
+
+* ~97% prediction accuracy
+* TensorFlow & Keras implementation
+* PDF medical report generation
+* Real-time prediction interface
+* Streamlit deployment
+
+🔗 Live Demo
+
 https://breastcancerusinganns-sanjana.streamlit.app/
+
+**Tech Stack:** TensorFlow • Keras • Streamlit • NumPy • Pandas
 
 ---
 
 ## 🚑 Health Insurance Cost Prediction
 
-Machine Learning application for estimating medical insurance costs based on demographic and health-related factors.
+### Predictive Analytics for Healthcare Finance
+
+Machine Learning application that predicts insurance costs based on demographic and health-related factors.
 
 ### Highlights
 
 * Random Forest Regression
-* End-to-End ML Pipeline
-* Interactive Streamlit Interface
-* Real-Time Cost Prediction
+* End-to-end ML pipeline
+* Interactive prediction interface
+* Real-time premium estimation
+* Streamlit deployment
 
-🔗 Live Demo:
+🔗 Live Demo
+
 https://insurancepredictions-sanjana.streamlit.app/
 
----
-
-## 🎤 AI Interview Copilot
-
-LLM-powered interview preparation platform designed to simulate technical interviews and provide intelligent feedback.
-
-### Highlights
-
-* FastAPI Backend
-* Groq API Integration
-* Technical Question Generation
-* Automated Feedback System
-* Interview Evaluation Workflow
+**Tech Stack:** Scikit-Learn • Pandas • Streamlit • NumPy
 
 ---
 
-## 🌎 Earth Digital Immune System (EDIS)
+# 👩‍🏫 Experience & Leadership
 
-AI-powered environmental monitoring platform designed to identify ecosystem risks and provide intelligent recommendations.
+### Teaching Assistant – Machine Learning
 
-### Highlights
+* Trained and mentored 150+ students
+* Conducted hands-on ML sessions
+* Guided students through end-to-end ML workflows
+* Assisted in debugging and project development
 
-* Environmental Risk Analysis
-* FastAPI Backend
-* AI Assistant Integration
-* Intelligent Recommendation Engine
-* Decision Support System
+### Team Leader
+
+* Led AI & ML project teams
+* Coordinated technical initiatives and hackathons
+* Managed project execution and collaboration
+
+### Microsoft Student Ambassador
+
+* Engaged in technology communities
+* Promoted AI learning initiatives
+* Supported student technical growth
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-### Programming Languages
+## Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-### Machine Learning & AI
+## Machine Learning & Deep Learning
 
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00599C?style=for-the-badge)
 
-### Generative AI
+## Generative AI
 
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge)
 
-### Data Science
+LLMs • Prompt Engineering • AI Agents • RAG Systems
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+## Data Science
 
-### Deployment
+Pandas • NumPy • Matplotlib
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit)
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
+## Deployment
 
-### Tools
+Streamlit • Render • Vercel • Azure • Netlify
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
+## Databases
+
+PostgreSQL
+
+## Tools
+
+Git • GitHub • Postman
 
 ---
 
@@ -131,54 +186,58 @@ AI-powered environmental monitoring platform designed to identify ecosystem risk
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjanamali17\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanamali17\&layout=compact\&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=sanjanamali17\&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanamali17\&layout=compact\&theme=tokyonight)
+
 ---
 
-# 🌱 Currently Learning
+# 🎯 Current Focus
 
-* Agentic AI
+* Building Production-Ready AI Applications
+* Agentic AI Systems
+* Multi-Agent Architectures
 * LangGraph
-* Multi-Agent Systems
+* RAG Pipelines
 * MLOps
-* Cloud Deployment
-* Retrieval-Augmented Generation (RAG)
+* AI System Design
 
 ---
 
-# 🎯 2026 Goals
+# 📈 2026 Goals
 
-* Build production-grade AI systems
-* Contribute to open-source AI projects
-* Deepen expertise in LLM Engineering
-* Gain hands-on experience in MLOps
-* Secure an AI/ML Engineering role
+* Contribute to Open Source AI Projects
+* Build Advanced Multi-Agent Systems
+* Strengthen MLOps Expertise
+* Develop Enterprise-Grade AI Products
+* Secure AI/ML Engineering Opportunities
 
 ---
 
 # 🤝 Open To
 
 * AI/ML Internships
-* Machine Learning Projects
-* Open Source Contributions
 * Research Collaborations
+* Open Source Contributions
+* Generative AI Projects
 * AI Product Development
 
 ---
 
 # 🌐 Connect With Me
 
-💼 LinkedIn:
+💼 LinkedIn
+
 [www.linkedin.com/in/sanjana-mali-89aa87292](http://www.linkedin.com/in/sanjana-mali-89aa87292)
 
-📧 Email:
+📧 Email
+
 [sanjanamali177@gmail.com](mailto:sanjanamali177@gmail.com)
 
-💻 GitHub:
+💻 GitHub
+
 https://github.com/sanjanamali17
 
 ---
 
-⭐ Building AI systems that transform data into intelligent decisions.
+### "Building AI systems that create measurable real-world impact."
