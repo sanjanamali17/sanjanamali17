@@ -13,7 +13,7 @@ Building intelligent systems for Environmental Intelligence, and Human Productiv
 </p>
 
 <p align="center">
-🧠 Machine Learning • 🤖 Generative AI • ⚡ FastAPI  • 🌍 Environmental AI
+🧠 Machine Learning • 🤖 Generative AI   • RAG  
 </p>
 
 ---
